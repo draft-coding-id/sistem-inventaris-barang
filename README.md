@@ -1,19 +1,10 @@
 # Intro
-Sistem inventaris berbasis website, bebas digunakan untuk kebutuhan apa saja
-
-![App Screenshot](https://github.com/superXdev/Sistem-Inventaris-Barang/raw/master/ss.png)
+Sistem inventaris 
 
 ## Admin credentials
 **username:** admin
 **password:** admin123
 
-## Tech Stack
-
-**Client:** [ruangAdmin](https://github.com/indrijunanda/RuangAdmin), Bootstrap, Jquery, filePond
-
-**Server:** PHP 7.4.x, Laravel 8.x
-
-  
 ## Menu
 
 - Dashboard
@@ -27,8 +18,6 @@ Sistem inventaris berbasis website, bebas digunakan untuk kebutuhan apa saja
 - Profile (ganti pp & password)
   
 ## Installation 
-
-You can fork or clone this project
 
 ```
 composer install
@@ -48,9 +37,6 @@ php artisan test
 Tests:  44 passed
 Time:   20.30s
 ```
-
-## Sponsor
-https://suksesmm.net - SMM Panel Indonesia
 
 ## License
 

@@ -12,7 +12,10 @@ use App\Http\Controllers\{
 	UserController
 };
 
-Route::redirect('/', '/login');
+
+Route::get('/', function () {
+    return view('welcome'); // View compro seperti LAGRO INVENTARIS
+});
 
 Route::group([
 	'middleware' => 'auth',
